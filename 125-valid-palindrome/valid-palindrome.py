@@ -1,6 +1,5 @@
-# jansi
 class Solution:
-
+    #jansishivani16
     def isPalindrome(self, s: str) -> bool:
         left, right = 0, len(s) - 1
 
